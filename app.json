@@ -1,0 +1,12 @@
+{
+  "name": "nubankcopy",
+  "displayName": "nubankcopy",
+  "expo": {
+    "name": "nubankcopy",
+    "slug": "nubankcopy",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
