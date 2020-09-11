@@ -1,15 +1,15 @@
 import React from 'react';
 
-import { Container} from './styles';
+import { ContainerHeader, Top, Title } from './styles';
+
 
 export default function Header () {
 	return (
-	<Container>
+	<ContainerHeader>
 		<Top>
-		<Logo source={} />
-		<Title>Babacones</Title>
+			<Title>Babacoles Bank</Title>
 		</Top>
 
-	</Container>
+	</ContainerHeader>
 	);
 }
